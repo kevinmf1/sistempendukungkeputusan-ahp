@@ -1,0 +1,13 @@
+/* Decoration */
+
+header, section, footer {
+	padding: 10px 30px;
+	margin: 0;
+	color: #fff;
+}
+
+section {
+	background: white;
+  color: black;
+  padding: 30px;
+}
