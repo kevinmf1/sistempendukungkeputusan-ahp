@@ -3,4 +3,4 @@ Indonesia : Sistem pendukung keputusan menggunakan metode ahp, dibuat untuk meme
 
 English : The decision support system uses the ahp method, made to fulfill the college assignments for the decision support system
 
-Link Website : http://kevinmalikfajar.alwaysdata.net/sistempendukungkeputusan-ahp
+Website Link : http://kevinmalikfajar.alwaysdata.net/sistempendukungkeputusan-ahp
